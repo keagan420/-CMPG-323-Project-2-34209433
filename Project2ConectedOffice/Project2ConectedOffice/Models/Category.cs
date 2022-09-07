@@ -1,4 +1,6 @@
-﻿using System;
+﻿using JWTAuthentication.Authentication;
+using Microsoft.AspNetCore.Authorization;
+using System;
 using System.Collections.Generic;
 
 // Code scaffolded by EF Core assumes nullable reference types (NRTs) are not used or disabled.
@@ -7,6 +9,8 @@ using System.Collections.Generic;
 
 namespace Project2ConectedOffice.Models
 {
+    [Authorize(Roles = UserRoles.Admin)]
+
     public partial class Category
     {
         public Guid CategoryId { get; set; }

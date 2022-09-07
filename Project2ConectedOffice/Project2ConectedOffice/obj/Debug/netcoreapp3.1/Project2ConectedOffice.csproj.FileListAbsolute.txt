@@ -137,3 +137,13 @@ C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2Conected
 C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\obj\Debug\netcoreapp3.1\Project2ConectedOffice.MvcApplicationPartsAssemblyInfo.cs
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
