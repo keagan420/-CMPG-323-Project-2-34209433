@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Project2ConectedOffice" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\NWU\\Year\ 3\\Semester\ 2\\Cmpg\ 323\\Project\ 2\\Project2\ Repository\\Project2ConectedOffice\\Project2ConectedOffice\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

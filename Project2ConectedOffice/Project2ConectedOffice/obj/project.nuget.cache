@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3RswBRSL8vmzWJrIcUIkBJla0h6gbKq0wDq1/ovbwmWDBpnWd2x0OZ8zYjdRGm8N63LJi/L7TSl11REugu7T4A==",
+  "dgSpecHash": "2cQrEMwhQvL8PpB4YaahtraGbXIfZR5znqLzavkrPwBqsncEilCSBuYG4h+At4oi020KO743k2rFgzYpaqzO/w==",
   "success": true,
   "projectFilePath": "C:\\NWU\\Year 3\\Semester 2\\Cmpg 323\\Project 2\\Project2 Repository\\Project2ConectedOffice\\Project2ConectedOffice\\Project2ConectedOffice.csproj",
   "expectedPackageFiles": [
@@ -9,9 +9,11 @@
     "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.3\\microsoft.aspnet.identity.entityframework.2.2.3.nupkg.sha512",
     "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.authentication.azuread.ui\\3.1.13\\microsoft.aspnetcore.authentication.azuread.ui.3.1.13.nupkg.sha512",
     "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
     "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.28\\microsoft.aspnetcore.authentication.jwtbearer.3.1.28.nupkg.sha512",
+    "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.13\\microsoft.aspnetcore.authentication.openidconnect.3.1.13.nupkg.sha512",
     "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.28\\microsoft.aspnetcore.cryptography.internal.3.1.28.nupkg.sha512",
     "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.28\\microsoft.aspnetcore.cryptography.keyderivation.3.1.28.nupkg.sha512",
     "C:\\Users\\E7450\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.2.0\\microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",

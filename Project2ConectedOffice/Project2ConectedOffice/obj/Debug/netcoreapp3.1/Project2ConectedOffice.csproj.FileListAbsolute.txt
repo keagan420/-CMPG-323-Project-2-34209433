@@ -147,3 +147,6 @@ C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2Conected
 C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\NWU\Year 3\Semester 2\Cmpg 323\Project 2\Project2 Repository\Project2ConectedOffice\Project2ConectedOffice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll

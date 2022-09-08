@@ -32,10 +32,10 @@ namespace JWTAuthentication
             services.AddDbContext<Project2DatabaseContext>(options => options.UseSqlServer("name=ConnectionStrings:ConnStr"));
 
             services.AddSwaggerGen(c => {
-                c.SwaggerDoc("v2", new OpenApiInfo
+                c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Title = "JWTToken_Auth_API",
-                    Version = "v2"
+                    Version = "v1"
                 });
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
                 {
@@ -110,7 +110,7 @@ namespace JWTAuthentication
                 endpoints.MapControllers();
             });
             app.UseSwagger(); 
-            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v2/swagger.json", "Project 2"));
+            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v1/swagger.json", "Project2ConectedOffice"));
         }
     }
 }

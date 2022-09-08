@@ -32,6 +32,7 @@
       "Project2ConectedOffice/1.0.0": {
         "dependencies": {
           "Microsoft.AspNet.Identity.EntityFramework": "2.2.3",
+          "Microsoft.AspNetCore.Authentication.AzureAD.UI": "3.1.13",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.28",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.28",
@@ -375,6 +376,26 @@
           "Microsoft.Extensions.Options": "3.1.28"
         }
       },
+      "Microsoft.AspNetCore.Authentication.AzureAD.UI/3.1.13": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.28",
+          "Microsoft.AspNetCore.Authentication.OpenIdConnect": "3.1.13"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll": {
+            "assemblyVersion": "3.1.13.0",
+            "fileVersion": "3.100.1321.11713"
+          },
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.AzureAD.UI.dll": {
+            "assemblyVersion": "3.1.13.0",
+            "fileVersion": "3.100.1321.11713"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll": {},
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.AzureAD.UI.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authentication.Cookies/2.2.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication": "2.2.0"
@@ -399,6 +420,20 @@
         },
         "compile": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.OpenIdConnect/3.1.13": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll": {
+            "assemblyVersion": "3.1.13.0",
+            "fileVersion": "3.100.1321.11713"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll": {}
         }
       },
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.28": {
@@ -4158,6 +4193,13 @@
       "path": "microsoft.aspnetcore.authentication.abstractions/2.2.0",
       "hashPath": "microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Authentication.AzureAD.UI/3.1.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VujXlizSXkhwbOUHbUnGfNvFMVZV5pYa/yA6SJwJ2IWZYRupXUN2XFsrJZl1KE+AqARrqWQcXk269sSLoFthVg==",
+      "path": "microsoft.aspnetcore.authentication.azuread.ui/3.1.13",
+      "hashPath": "microsoft.aspnetcore.authentication.azuread.ui.3.1.13.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Authentication.Cookies/2.2.0": {
       "type": "package",
       "serviceable": true,
@@ -4178,6 +4220,13 @@
       "sha512": "sha512-CJm8ONdSVt1+RMWsl0yh3OR5cDuAkU1tpWU+HgNUmom9kHMhAC4FdyqtDagtdWTfoFfS3F9UK72quCQ2kBXdJA==",
       "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.28",
       "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.3.1.28.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.OpenIdConnect/3.1.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3InW2+tOteqVFkUDtzqlgd49lBpgVzH+uMAi4u1xHX8TyKwcdghEbfFcbzAQhQ0bb6w35HMfEp/O1KR4vcYFsA==",
+      "path": "microsoft.aspnetcore.authentication.openidconnect/3.1.13",
+      "hashPath": "microsoft.aspnetcore.authentication.openidconnect.3.1.13.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.28": {
       "type": "package",
